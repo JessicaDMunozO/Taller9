@@ -1,0 +1,60 @@
+Nombre de la Idea: TuAbogado
+
+Descripción:
+TuAbogado es una aplicación que permite agendar y gestionar consultas con
+abogados especializados en diversas ramas. Se ofrece un servicio ágil, seguro,
+simple y abierto a un sistema de calificación para asegurar la calidad y el
+compromiso con las necesidades de los usuarios.
+
+Base Tecnológica:
+Es un proyecto de desarrollo de software en el que se construirá un sistema
+completo, desde el backend hasta el frontend, incluyendo una aplicación móvil
+para Android y una aplicación web utilizando Java.
+● Backend: Se diseñara e implementara usando arquitectura de
+micro-servicios REST con Java y Spring Boot.
+● Se diseñará e implementará utilizando React.
+● Adicionalmente, se podrían implementar algoritmos de Machine Learning
+para analizar y clasificar los propósitos de una consulta, a fin de
+recomendar los abogados con mayor experticia en el tema de necesidad
+del cliente.
+
+Innovación:
+Ofrecer un servicio digitalizado que permite a los clientes gestionar consultas con
+abogados especializados, en diversas ramas, con tal solo conexión a internet.
+Además, los clientes podrán dar valoracion a los abogados, permitiendo un
+sistema de calificaciones que promueve el mejoramiento continuo y el buen
+servicio.
+También, existirá un canal de comunicación directo entre el cliente y el abogado,
+ofreciendo un servicio más personalizado.
+
+Nombre de la Idea:
+FarmaYa
+
+Descripción:
+FarmaYa busca agilizar el proceso de entrega de medicamentos en los sistemas
+de salud, para optimizar desde que el doctor genere la fórmula médica, hasta que
+el usuario reciba su medicina. De modo que, una vez que el médico genera la
+receta, se inicia automáticamente el proceso de gestión para alistar dichos
+medicamentos solicitados. Los médicos podrán ver la disponibilidad de los
+medicamentos en las farmacias y los usuarios podrán decidir si quieren la entrega
+con las farmacias asociadas o si quieren el servicio de domicilio con las droguerías
+aliadas.
+
+Base Tecnológica:
+Se requiere el desarrollo de software tanto de frontend (react) como de backend
+(nodejs), para ofrecer nuestra aplicación web y móvil. Además, debemos
+establecer la conexión y consultas a las bases de datos de los medicamentos de
+las farmacias y de las droguerías aliadas. Por su parte, es necesario proteger la
+integridad de los datos consultados tanto de usuarios como de medicamentos.
+También se podría integrar la geolocalización para el proceso de los domicilios,
+para que la entrega sea en la ubicación precisa del usuario.
+
+Innovación:
+Automatizamos y gestionamos el proceso de entrega de medicamentos para
+reducir los tiempos de espera en filas y mejorar la experiencia del usuario. Por su
+parte, ayuda a los sistemas de salud existentes para que la labor de los médicos y
+la de los dispensadores de medicamentos sea más eficaz. Además, aporta mayor
+flexibilidad en las entregas dado que se puede solicitar medicamentos con las
+farmacias del servicio de salud o con las droguerías asociadas. Se incluye la opción
+de domicilios para ofrecerle un mejor trato a nuestro usuarios, para que se sientan
+más cómodos con el servicio.
