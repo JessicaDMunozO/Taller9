@@ -1,7 +1,5 @@
 # Taller 9 - AREP
-En este taller desarrollado con python se usó *Lang CHain*, *Pinecone* y *OpenAI*. Se enviaron prompts a *ChatGPT* para obtener respuestas. Además, se usó la técnica de *RAG* 
-para introducir datos adicionales a los públicos, divirdirlos en fragmentos más pequeños, para luego recuperarlos según la entrada del usuario. Por último se usó *Pinecone*
-que es una base de datos vectorial y se cargó la información de un archivo creado llamado *ideas.txt*
+En este taller desarrollado con python se usó *Lang Chain*, *Pinecone* y *OpenAI*. Se enviaron prompts a *ChatGPT* para obtener respuestas. Además, se usó la técnica de *RAG* para introducir datos adicionales a los públicos, divirdirlos en fragmentos más pequeños, para luego recuperarlos según la entrada del usuario. Por último se usó *Pinecone* que es una base de datos vectorial y se cargó la información de un archivo creado llamado *ideas.txt*
 
 ## Experimentos
 - **FirstProgram**
