@@ -23,6 +23,7 @@ En este taller desarrollado con python se usó *Lang Chain*, *Pinecone* y *OpenA
 
   ## Consturido con
   pip - Gestión de despendencias
+  
   Git - Control de versiones
 
   ## Autor
